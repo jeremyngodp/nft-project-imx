@@ -1,0 +1,290 @@
+[
+    {
+        "Background": "Pink",
+        "Square": "Purple",
+        "Eye": "Amber",
+        "tokenId": 0
+    },
+    {
+        "Background": "Pink",
+        "Square": "Red",
+        "Eye": "Amber",
+        "tokenId": 1
+    },
+    {
+        "Background": "Pink",
+        "Square": "Black",
+        "Eye": "Lilac",
+        "tokenId": 2
+    },
+    {
+        "Background": "Pink",
+        "Square": "Purple",
+        "Eye": "Lilac",
+        "tokenId": 3
+    },
+    {
+        "Background": "Blue",
+        "Square": "White",
+        "Eye": "Amber",
+        "tokenId": 4
+    },
+    {
+        "Background": "Blue",
+        "Square": "Red",
+        "Eye": "Green",
+        "tokenId": 5
+    },
+    {
+        "Background": "Mint",
+        "Square": "Black",
+        "Eye": "Amber",
+        "tokenId": 6
+    },
+    {
+        "Background": "Mint",
+        "Square": "Red",
+        "Eye": "Lilac",
+        "tokenId": 7
+    },
+    {
+        "Background": "Blue",
+        "Square": "Black",
+        "Eye": "Amber",
+        "tokenId": 8
+    },
+    {
+        "Background": "Blue",
+        "Square": "Black",
+        "Eye": "Lilac",
+        "tokenId": 9
+    },
+    {
+        "Background": "Yellow",
+        "Square": "Red",
+        "Eye": "Green",
+        "tokenId": 10
+    },
+    {
+        "Background": "Blue",
+        "Square": "Red",
+        "Eye": "Amber",
+        "tokenId": 11
+    },
+    {
+        "Background": "Blue",
+        "Square": "Red",
+        "Eye": "Lilac",
+        "tokenId": 12
+    },
+    {
+        "Background": "Pink",
+        "Square": "Black",
+        "Eye": "Green",
+        "tokenId": 13
+    },
+    {
+        "Background": "Blue",
+        "Square": "Black",
+        "Eye": "Green",
+        "tokenId": 14
+    },
+    {
+        "Background": "Blue",
+        "Square": "Purple",
+        "Eye": "Green",
+        "tokenId": 15
+    },
+    {
+        "Background": "Blue",
+        "Square": "Purple",
+        "Eye": "Lilac",
+        "tokenId": 16
+    },
+    {
+        "Background": "Yellow",
+        "Square": "Black",
+        "Eye": "Green",
+        "tokenId": 17
+    },
+    {
+        "Background": "Mint",
+        "Square": "Black",
+        "Eye": "Green",
+        "tokenId": 18
+    },
+    {
+        "Background": "Pink",
+        "Square": "Red",
+        "Eye": "Green",
+        "tokenId": 19
+    },
+    {
+        "Background": "Pink",
+        "Square": "Red",
+        "Eye": "Lilac",
+        "tokenId": 20
+    },
+    {
+        "Background": "Mint",
+        "Square": "Purple",
+        "Eye": "Lilac",
+        "tokenId": 21
+    },
+    {
+        "Background": "Pink",
+        "Square": "White",
+        "Eye": "Green",
+        "tokenId": 22
+    },
+    {
+        "Background": "Pink",
+        "Square": "White",
+        "Eye": "Amber",
+        "tokenId": 23
+    },
+    {
+        "Background": "Yellow",
+        "Square": "Purple",
+        "Eye": "Green",
+        "tokenId": 24
+    },
+    {
+        "Background": "Yellow",
+        "Square": "Red",
+        "Eye": "Amber",
+        "tokenId": 25
+    },
+    {
+        "Background": "Blue",
+        "Square": "White",
+        "Eye": "Green",
+        "tokenId": 26
+    },
+    {
+        "Background": "Blue",
+        "Square": "White",
+        "Eye": "Lilac",
+        "tokenId": 27
+    },
+    {
+        "Background": "Blue",
+        "Square": "Purple",
+        "Eye": "Amber",
+        "tokenId": 28
+    },
+    {
+        "Background": "Pink",
+        "Square": "Purple",
+        "Eye": "Green",
+        "tokenId": 29
+    },
+    {
+        "Background": "Mint",
+        "Square": "Red",
+        "Eye": "Green",
+        "tokenId": 30
+    },
+    {
+        "Background": "Pink",
+        "Square": "White",
+        "Eye": "Lilac",
+        "tokenId": 31
+    },
+    {
+        "Background": "Yellow",
+        "Square": "Red",
+        "Eye": "Lilac",
+        "tokenId": 32
+    },
+    {
+        "Background": "Pink",
+        "Square": "Black",
+        "Eye": "Amber",
+        "tokenId": 33
+    },
+    {
+        "Background": "Mint",
+        "Square": "Red",
+        "Eye": "Amber",
+        "tokenId": 34
+    },
+    {
+        "Background": "Mint",
+        "Square": "Black",
+        "Eye": "Lilac",
+        "tokenId": 35
+    },
+    {
+        "Background": "Yellow",
+        "Square": "White",
+        "Eye": "Lilac",
+        "tokenId": 36
+    },
+    {
+        "Background": "Yellow",
+        "Square": "Purple",
+        "Eye": "Lilac",
+        "tokenId": 37
+    },
+    {
+        "Background": "Mint",
+        "Square": "White",
+        "Eye": "Green",
+        "tokenId": 38
+    },
+    {
+        "Background": "Yellow",
+        "Square": "Purple",
+        "Eye": "Amber",
+        "tokenId": 39
+    },
+    {
+        "Background": "Yellow",
+        "Square": "Black",
+        "Eye": "Amber",
+        "tokenId": 40
+    },
+    {
+        "Background": "Mint",
+        "Square": "Purple",
+        "Eye": "Green",
+        "tokenId": 41
+    },
+    {
+        "Background": "Mint",
+        "Square": "White",
+        "Eye": "Lilac",
+        "tokenId": 42
+    },
+    {
+        "Background": "Yellow",
+        "Square": "Black",
+        "Eye": "Lilac",
+        "tokenId": 43
+    },
+    {
+        "Background": "Mint",
+        "Square": "Purple",
+        "Eye": "Amber",
+        "tokenId": 44
+    },
+    {
+        "Background": "Yellow",
+        "Square": "White",
+        "Eye": "Green",
+        "tokenId": 45
+    },
+    {
+        "Background": "Yellow",
+        "Square": "White",
+        "Eye": "Amber",
+        "tokenId": 46
+    },
+    {
+        "Background": "Mint",
+        "Square": "White",
+        "Eye": "Amber",
+        "tokenId": 47
+    }
+]

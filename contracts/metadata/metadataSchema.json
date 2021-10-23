@@ -1,0 +1,39 @@
+[   
+    {
+        "name": "Background",
+        "value": [
+            "Blue", 
+            "Pink", 
+            "Yellow", 
+            "Mint"
+        ],
+        "type": "enum"
+    },
+    {
+        "name": "Body",
+        "value": [
+            "Red", 
+            "Black", 
+            "Purple", 
+            "White"
+        ],
+        "type": "enum"
+    },
+    {
+        "name": "Eye",
+        "value": [
+            "Green", 
+            "Lilac", 
+            "Amber"
+        ],
+        "type": "enum"
+    },
+    {
+        "name": "name",
+        "type": "text"
+    },
+    {
+        "name": "description",
+        "type": "text"
+    }
+]

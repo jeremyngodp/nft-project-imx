@@ -1,0 +1,9 @@
+{
+    "name": "AB #5",
+    "description": "A weird aninmal having Black body and a Amber eye!",
+    "image_url": "https://cloudflare-ipfs.com/ipfs/QmZmDcYa2zCvDoQDybnpZGtERiJcKTaYMjUgmHcoN4tTr1/unrevealedPlaceHolder.jpg",
+    "Background": "Pink",
+    "Body": "Black",
+    "Eye": "Amber",
+    "tokenId": 5
+}
